@@ -1,5 +1,5 @@
 ## Towns
-# Exercise for students in the teamwork course at Software Engineering cource
+# Exercise for students in the teamwork course at Software Engineering and DevOps
 
 # Roles
   lechev95 takes the role “Editor”.
