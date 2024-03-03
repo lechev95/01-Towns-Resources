@@ -2,6 +2,6 @@
 # Exercise for students in the teamwork course at Software Engineering cource
 
 # Roles
-  Stephan takes the role “Editor”.
-  Peter takes the role “Shiffler”.
-  Maria takes the role “Styler”.
+  lechev95 takes the role “Editor”.
+  llechev1 takes the role “Shiffler”.
+  llechev2 takes the role “Styler”.
